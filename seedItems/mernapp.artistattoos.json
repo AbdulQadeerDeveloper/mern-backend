@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "65e9dd02a6919b1dc103d15c"
+  },
+  "title": "Abdul Qadeer",
+  "discription": "I'm a Seattle based tattooer (since 1993) with a particular interest in ...",
+  "Image_Url": "tattoo_slider_Images_1",
+  "count": "20,813",
+  "follower": "follower",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e9dd02a6919b1dc103d15d"
+  },
+  "title": "Kashif Raza",
+  "discription": "I'm a Seattle based tattooer (since 1993) with a particular interest in ...",
+  "Image_Url": "tattoo_slider_Images_2",
+  "count": "20,813",
+  "follower": "follower",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e9dd02a6919b1dc103d15e"
+  },
+  "title": "Aaron Bell",
+  "discription": "I'm a Seattle based tattooer (since 1993) with a particular interest in ...",
+  "Image_Url": "tattoo_slider_Images_3",
+  "count": "20,813",
+  "follower": "follower",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e9dd02a6919b1dc103d15f"
+  },
+  "title": "Usman Ali",
+  "discription": "I'm a Seattle based tattooer (since 1993) with a particular interest in ...",
+  "Image_Url": "tattoo_slider_Images_4",
+  "count": "20,813",
+  "follower": "follower",
+  "__v": 0
+}]

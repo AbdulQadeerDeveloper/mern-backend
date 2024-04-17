@@ -1,0 +1,380 @@
+[{
+  "_id": {
+    "$oid": "65eedc8a340a448e4c452eec"
+  },
+  "tattoosTitle": "Embrace Your Journey, Trust the Process, Live Fully",
+  "tattoosDis": "This tattoo symbolizes the importance of embracing life's journey, trusting the process, and living each moment to the fullest. It's a reminder to remain present and appreciate the now.",
+  "tattooImage": "uploads\\1710152842076-download (6).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375d"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ed22a6615d27a316530178"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0,
+  "likes": 8,
+  "dislikes": 5
+},
+{
+  "_id": {
+    "$oid": "65eedcd0340a448e4c452eee"
+  },
+  "tattoosTitle": "In Dreams and Love, There Are No Impossibilities",
+  "tattoosDis": "A representation of the boundless potential within dreams and love, where everything is possible. This tattoo inspires the wearer to pursue their heart's desires without fear.",
+  "tattooImage": "uploads\\1710152912559-download (5).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375d"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ed22a6615d27a316530178"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0,
+  "dislikes": 5,
+  "likes": 4
+},
+{
+  "_id": {
+    "$oid": "65eedd00340a448e4c452ef0"
+  },
+  "tattoosTitle": "Strength Lies Within, Courageous Heart, Fearless Soul Endures",
+  "tattoosDis": "Celebrating the indomitable spirit of resilience and bravery, this tattoo serves as a constant reminder that true strength and courage come from within, enabling us to overcome any challenge.",
+  "tattooImage": "uploads\\1710152960202-download.jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375d"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ed22a6615d27a316530178"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0,
+  "likes": 2
+},
+{
+  "_id": {
+    "$oid": "65eedd19340a448e4c452ef2"
+  },
+  "tattoosTitle": "Let Your Faith Be Bigger Than Your Fears",
+  "tattoosDis": "This tattoo encourages one to hold onto faith, allowing it to overshadow fears and doubts. It's a beautiful testament to belief's power to conquer anxiety.",
+  "tattooImage": "uploads\\1710152985364-images (3).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375d"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ed22a6615d27a316530178"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eedd63340a448e4c452ef4"
+  },
+  "tattoosTitle": "Nature's Majesty, Unveiled in Every Sunrise and Sunset",
+  "tattoosDis": "Capturing the awe-inspiring beauty of nature's daily spectacles, this tattoo reflects on the majesty found in each sunrise and sunset, urging a connection with the natural world.",
+  "tattooImage": "uploads\\1710153059936-images (1).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375c"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ed22a6615d27a316530183"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0,
+  "dislikes": 1,
+  "likes": 1
+},
+{
+  "_id": {
+    "$oid": "65eedd7e340a448e4c452ef6"
+  },
+  "tattoosTitle": "Wanderlust Whisperer, Guiding Souls to Uncharted Adventures",
+  "tattoosDis": "For those with a thirst for exploration, this tattoo embodies the spirit of adventure and the joy of discovering unknown places, celebrating the journey over the destination.",
+  "tattooImage": "uploads\\1710153086289-download (7).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375c"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ed22a6615d27a316530183"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0,
+  "likes": 2
+},
+{
+  "_id": {
+    "$oid": "65eedd96340a448e4c452ef8"
+  },
+  "tattoosTitle": "Art Is the Stored Honey of the Human Soul",
+  "tattoosDis": "This tattoo pays homage to the transformative power of art, likening it to honey that nourishes the soul, reminding us of creativity's role in expressing our deepest selves.",
+  "tattooImage": "uploads\\1710153110570-download (4).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375c"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ed22a6615d27a316530183"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eeddad340a448e4c452efa"
+  },
+  "tattoosTitle": "Beneath the Stars, We Realize Our True Size",
+  "tattoosDis": " A humbling reminder of our place in the universe, this tattoo reflects on the vastness of the cosmos and encourages a perspective shift, recognizing our small, yet significant role.",
+  "tattooImage": "uploads\\1710153133670-download (3).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375c"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ed22a6615d27a316530183"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eeddcd340a448e4c452efc"
+  },
+  "tattoosTitle": " From Ashes of Despair, Phoenix Rises, Reborn Anew",
+  "tattoosDis": " Symbolizing rebirth and resilience, this tattoo represents rising from the ashes of defeat or despair, much like a phoenix, ready to begin anew with strength and grace",
+  "tattooImage": "uploads\\1710153165191-images (6).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375b"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ed22a6615d27a31653017f"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65eedde9340a448e4c452efe"
+  },
+  "tattoosTitle": "Harmonize with Life's Rhythms, Flow with Its Currents",
+  "tattoosDis": "This tattoo encourages embracing life's ups and downs, flowing with its natural rhythms instead of resisting. It's a call to find peace in life's inherent unpredictability.\r\n\r\nEach of these titles and descriptions offers a deep, meaningful idea that could be beautifully translated into a tattoo, serving as a personal mantra or reminder.",
+  "tattooImage": "uploads\\1710153193986-images (5).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375b"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ed22a6615d27a31653017f"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efd449ccc8c66e24ebebac"
+  },
+  "tattoosTitle": "Mystic Forest Night Sky View",
+  "tattoosDis": "A captivating tattoo depicting a mystical forest under a starry night sky. Dark trees silhouette against a moonlit backdrop, invoking a sense of wonder and tranquility.",
+  "tattooImage": "uploads\\1710216265797-download (6).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375f"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ef363357b1e3ad20eaf9a2"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efd483ccc8c66e24ebebae"
+  },
+  "tattoosTitle": "Fierce Dragon Breathing Fiery Flames",
+  "tattoosDis": "This powerful tattoo showcases a fierce dragon exhaling flames. Its scales glisten, and its eyes gleam with intensity, symbolizing strength, power, and ancient wisdom.",
+  "tattooImage": "uploads\\1710216323804-download.jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375f"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ef363357b1e3ad20eaf9a8"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efd4b0ccc8c66e24ebebb0"
+  },
+  "tattoosTitle": "Serene Ocean Waves at Sunset",
+  "tattoosDis": "A beautiful tattoo that captures the serene beauty of ocean waves glimmering at sunset. The gradient of colors reflects the peaceful transition from day to night.",
+  "tattooImage": "uploads\\1710216368626-download (4).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc3760"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ef363357b1e3ad20eaf9a3"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efd4ccccc8c66e24ebebb2"
+  },
+  "tattoosTitle": "Whimsical Phoenix in Fiery Rebirth",
+  "tattoosDis": "This tattoo features a whimsical phoenix rising from its ashes in a fiery rebirth. It embodies resilience, transformation, and the cyclical nature of life and renewal.",
+  "tattooImage": "uploads\\1710216396619-download (2).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc3760"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ef363357b1e3ad20eaf9a3"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65efd500ccc8c66e24ebebb4"
+  },
+  "tattoosTitle": "Elegant Cherry Blossoms on Wind",
+  "tattoosDis": "An elegant tattoo depicting cherry blossoms gracefully carried by the wind. It symbolizes the fleeting beauty of life, reminding us to cherish each moment.",
+  "tattooImage": "uploads\\1710216448288-images.jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375e"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ef363357b1e3ad20eaf9b2"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f02aa4ccc8c66e24ebefc9"
+  },
+  "tattoosTitle": "Good Tattoos are the best information",
+  "tattoosDis": "What to Look for When Finding Your Perfect Tattoo Artist",
+  "tattooImage": "uploads\\1710238372101-download (6).jpg",
+  "tattoosCategoryId": [
+    {
+      "$oid": "65ed210e9671eee8e1cc375e"
+    }
+  ],
+  "tattoosPlacementId": [
+    {
+      "$oid": "65ef363357b1e3ad20eaf9a9"
+    }
+  ],
+  "tattoosColorId": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f15959039d62b948dbb08c"
+  },
+  "tattoosTitle": "Tattoos All items",
+  "tattoosDis": "placementTattoos",
+  "tattooImage": "uploads\\1710315865373-images (6).jpg",
+  "tattoosCategoryId": {
+    "$oid": "65ed210e9671eee8e1cc375f"
+  },
+  "tattoosPlacementId": {
+    "$oid": "65f142e13ac74e8a93a761d4"
+  },
+  "likes": 0,
+  "dislikes": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1c447283d6c6d0bb0df3d"
+  },
+  "tattoosTitle": "Mystic Forest Night Sky View",
+  "tattoosDis": "A captivating tattoo depicting a mystical forest under a starry night",
+  "tattooImage": "uploads\\1710343239660-images (1).jpg",
+  "tattoosCategoryId": {
+    "$oid": "65ed210e9671eee8e1cc3760"
+  },
+  "tattoosPlacementId": {
+    "$oid": "65f142e13ac74e8a93a761d4"
+  },
+  "likes": 0,
+  "dislikes": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1c66fe10104636a392d93"
+  },
+  "tattoosTitle": "Mystic Forest development Night Sky View",
+  "tattoosDis": "Mystic Forest Night Sky View",
+  "tattooImage": "uploads\\1710343791501-download (6).jpg",
+  "tattoosCategoryId": {
+    "$oid": "65ed210e9671eee8e1cc375c"
+  },
+  "tattoosPlacementId": {
+    "$oid": "65f142ef3ac74e8a93a761d8"
+  },
+  "likes": 0,
+  "dislikes": 0,
+  "tagTattoos": "#Mystic #Forest #Night #Sky #View",
+  "__v": 0
+}]

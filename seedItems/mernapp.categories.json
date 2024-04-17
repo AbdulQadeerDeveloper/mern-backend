@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "66016a24f7f2b74420d3bf75"
+  },
+  "name": "Traditional",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66016a24f7f2b74420d3bf76"
+  },
+  "name": "Realism",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66016a24f7f2b74420d3bf77"
+  },
+  "name": "Watercolor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66016a24f7f2b74420d3bf78"
+  },
+  "name": "Tribal",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66016a24f7f2b74420d3bf79"
+  },
+  "name": "New School",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66016a24f7f2b74420d3bf7a"
+  },
+  "name": "Neo-Traditional",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66016a24f7f2b74420d3bf7b"
+  },
+  "name": "Japanese",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66016a24f7f2b74420d3bf7c"
+  },
+  "name": "Dotwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66016a24f7f2b74420d3bf7d"
+  },
+  "name": "Geometric",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66016a24f7f2b74420d3bf7e"
+  },
+  "name": "Blackwork",
+  "__v": 0
+}]

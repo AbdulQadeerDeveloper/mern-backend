@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6601659e17d2a2ad32ce0a3f"
+  },
+  "name": "Forearm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6601659e17d2a2ad32ce0a40"
+  },
+  "name": "Wrist",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6601659e17d2a2ad32ce0a41"
+  },
+  "name": "Shoulder",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6601659e17d2a2ad32ce0a42"
+  },
+  "name": "Chest",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6601659e17d2a2ad32ce0a43"
+  },
+  "name": "Back",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6601659e17d2a2ad32ce0a44"
+  },
+  "name": "Ribcage",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6601659e17d2a2ad32ce0a45"
+  },
+  "name": "Thigh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6601659e17d2a2ad32ce0a46"
+  },
+  "name": "Calf",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6601659e17d2a2ad32ce0a47"
+  },
+  "name": "Ankle",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6601659e17d2a2ad32ce0a48"
+  },
+  "name": "Neck",
+  "__v": 0
+}]
